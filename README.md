@@ -29,7 +29,7 @@
 ## Источники
   * **Список районов Крайнего Севера** - http://www.consultant.ru/document/cons_doc_LAW_403/e0ea98970eab53abef3339d0a701bed7dd8420a1/#dst100010
   * **Районные коэффициенты и надбавки** - http://www.consultant.ru/document/cons_doc_LAW_118861/
-  * **Координаты субъектов РФ** - https://github.com/infoculture/datatasks/issues/23
+  * **Координаты субъектов РФ** - https://github.com/alt-dmitry/RussianMap
   * Карта создана с помощью Mapbox - https://www.mapbox.com/
 
 ## Допущения
